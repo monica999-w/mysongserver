@@ -1,0 +1,22 @@
+{
+    "songs": [
+      {
+        "artist": "Miley Cyrus",
+        "name": "Flowers",
+        "initialVotes": 13,
+        "album": "Album A"
+      },
+      {
+        "artist": "Adele",
+        "name": "Hello",
+        "initialVotes": 2,
+        "album": "Album A"
+      },
+      {
+        "artist": "Ed Sheeran",
+        "name": "Shape of You",
+        "initialVotes": 143,
+        "album": "Album B"
+      }
+    ]
+  }
